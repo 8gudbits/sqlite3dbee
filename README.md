@@ -25,7 +25,7 @@ pip install click tabulate cryptography
 1. Clone this repository:
 
 ```batch
-git clone https://github.com/TechWhizKid/sqlite3dbee.git
+git clone https://github.com/8gudbits/sqlite3dbee.git
 ```
 
 2. Navigate to the cloned directory:
@@ -132,7 +132,7 @@ sqlite3dbee.py ukdb database.sql "123456"
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/TechWhizKid/sqlite3dbee/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/8gudbits/sqlite3dbee/blob/main/LICENSE)
 
 ---
 
